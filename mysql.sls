@@ -1,5 +1,5 @@
 mysql:
   root:
-    - name: root
-    - password: r007
+    name: root
+    password: r007
 
