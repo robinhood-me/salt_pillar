@@ -17,8 +17,4 @@ mysql:
       uqY=
       =/Cg/
       -----END PGP MESSAGE-----
-  database:
-    eski:
-      host: localhost
-    internal:
-      host: localhost
+
